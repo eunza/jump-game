@@ -1,0 +1,35 @@
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+button{
+    width: 120px;
+    height: 40px;
+    background-color: #004fff;
+    color: #ffffff;
+    margin-left: 20px;
+    box-shadow: 0px 4px 16px rgba(0, 79, 255, 0.3);
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 20px;
+    border-style: none;
+}
+img{
+    margin-top: 30px;
+    margin-bottom: 248px;
+    display: none;
+}
+.span{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+#h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 30px;
+}
+#button{
+    margin-left: 900px;
+    margin-top: 100px;
+}
